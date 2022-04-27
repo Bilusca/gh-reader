@@ -4,6 +4,8 @@ This template should help get you started developing with Vue 3 in Vite. It uses
 
 ## Project unning
 
+[Link to app](https://gh-reader-vu3.netlify.app/)
+
 ![Project running](./project-images/gh-reader.gif)
 
 ## Recommended IDE Setup
